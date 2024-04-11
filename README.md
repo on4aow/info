@@ -17,3 +17,5 @@ Bestuur:
 - QSL Manager: ON7XY Roger
 
 [Ledenlijst](/leden)
+
+Voor aanpassingen aan de site contacteer [ON6URE](https://on6ure.be)
