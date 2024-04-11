@@ -1,4 +1,4 @@
-##ON4AOW is het clubstation van de Opwijkse Radio Amateur Club (ORAC)
+## ON4AOW is het clubstation van de Opwijkse Radio Amateur Club (ORAC)
 
 Sectie ORA van de Unie van Belgische Radio Amateurs [UBA](https://uba.be)
 
@@ -16,6 +16,6 @@ Bestuur:
 - Secretariaat: ON7IM Robert
 - QSL Manager: ON7XY Roger
 
-[Ledenlijst](/leden)
+[Ledenlijst](leden)
 
 Voor aanpassingen aan deze site contacteer [ON6URE](https://on6ure.be)
