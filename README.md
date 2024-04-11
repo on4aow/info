@@ -18,4 +18,6 @@ Bestuur:
 
 [Ledenlijst](leden)
 
+[archief](/archive)
+
 Voor aanpassingen aan deze site contacteer [ON6URE](https://on6ure.be)
