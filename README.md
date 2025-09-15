@@ -11,6 +11,8 @@ Elke **woensdag avond om 19h45** is er een [vriendenronde](/vriendenronde) op VH
 **Clubfrequentie:** VHF 145.450 UHF 433.450
 **Repeater:** ON0ORA 438.800 Shift: -7.6MHz Tone: 131.8 (locatie = Terspelt / Merchtem)
 
+Wil je op de hoogte blijven? Schrijf je dan in op onze mailinglijst. [mailinglist](https://listmonk.on4aow.club/subscription/form)
+
 Bestuur:
 - CM – Voorzitter: ON6JR Johnny
 - Secretariaat: ON7IM Robert
