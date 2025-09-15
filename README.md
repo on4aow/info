@@ -6,10 +6,10 @@ De club is open op elke **2de vrijdag** van de maand om **20u00**. Iedereen is w
 
 Elke **woensdag avond om 19h45** is er een [vriendenronde](/vriendenronde) op VHF **145.450** FM modulatie.
 
-**Locatie:** De kersenpit, Dorp 46 1745 Mazenzele - Opwijk
+**Locatie:** Groene zaaltje (ingang bibliotheek), Spechtes Hof, Kloosterstraat 7, 1745 Opwijk
 
 **Clubfrequentie:** VHF 145.450 UHF 433.450
-**Repeater:** ON0ORA 438.800 Shift: -7.6MHz Tone: 131.8 (locatie = kerktoren Droeshout / Opwijk)
+**Repeater:** ON0ORA 438.800 Shift: -7.6MHz Tone: 131.8 (locatie = Terspelt / Merchtem)
 
 Bestuur:
 - CM – Voorzitter: ON6JR Johnny
