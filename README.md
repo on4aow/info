@@ -18,7 +18,7 @@ Bestuur:
 - Secretariaat: ON7IM Robert
 - QSL Manager: ON7XY Roger
 
-[ledenlijst](/leden)
+[ledenlijst](leden.md)
 
 [archief](/archive)
 
