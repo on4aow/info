@@ -18,7 +18,7 @@ Bestuur:
 - Secretariaat: ON7IM Robert
 - QSL Manager: ON7XY Roger
 
-[Agenda 2026].(https://calendar.google.com/calendar/u/0?cid=ZDZlZDY3ZTBjZDc5ZDEzNjU1ZWM3MzkzNWRmZjE0NGE0NGU1NDg2MDA4MTliYmM0NWM3Y2JkNzA4MTRhOGU0MkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t).
+[Agenda 2026](https://calendar.google.com/calendar/u/0?cid=ZDZlZDY3ZTBjZDc5ZDEzNjU1ZWM3MzkzNWRmZjE0NGE0NGU1NDg2MDA4MTliYmM0NWM3Y2JkNzA4MTRhOGU0MkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 
 [ledenlijst](/info/leden)
 
